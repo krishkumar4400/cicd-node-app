@@ -12,6 +12,7 @@ on:
             - ".github/workflows/**"
         branches:
             - main
+            - working
 
 jobs:
     build-test:
